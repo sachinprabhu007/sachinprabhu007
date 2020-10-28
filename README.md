@@ -12,6 +12,15 @@ I feel being a Machine Learning Engineer is lot like a detective. I love finding
 
 When I am not coding I like to paint 🎨🖌️. I am an avid reader 📚 that's where I get most of ideas from and it helps me see the world around me through different perspective. Apart from that I am a poet and love spoken word poetry 🎤
 
+### Portfolio 
+
+https://sachinprabhu007.github.io/
+
+### Research
+
+Recognition of Indian License Plate Number from Live Stream Videos 
+https://ieeexplore.ieee.org/document/8126199
+
 [![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinprabhu007&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
