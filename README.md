@@ -21,7 +21,7 @@ https://sachinprabhu007.github.io/
 Recognition of Indian License Plate Number from Live Stream Videos 
 https://ieeexplore.ieee.org/document/8126199
 
-[![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinprabhu007&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinprabhu007&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sachinprabhu007/sachinprabhu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
