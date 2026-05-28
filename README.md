@@ -14,7 +14,7 @@ When I am not coding I like to paint 🎨🖌️. I am an avid reader 📚 that'
 
 ### Portfolio 
 
-https://sachinprabhu007.github.io/
+https://sachin-prabhu-portfolio.vercel.app/
 
 ### Research
 
